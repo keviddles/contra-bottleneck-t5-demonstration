@@ -1,0 +1,21 @@
+{
+  "name": "transformers.js-investigations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "build": "vite build",
+    "dev": "vite --host"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@xenova/transformers": "^2.6.2",
+    "vite": "^4.4.11"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
